@@ -6,6 +6,7 @@
 
 ## 📌 系統簡介 (System Overview)
 本平台專為初階程式學習者設計，將「題目診斷 → 適性選題 → 生題/審題 → 實作編譯 → 自動評估 → AI 動態提示 → 學習紀錄」整合為完整自動化閉環。
+
 ![System Architecture](diagrams/system-architecture.png)
 ---
 
