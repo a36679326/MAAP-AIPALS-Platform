@@ -13,7 +13,7 @@
 ## 🛠️ 技術棧 (Tech Stack)
 - **Backend Framework**: C# / ASP.NET MVC (.NET Framework 4.7.2)
 - **Database**: Microsoft SQL Server / Entity Framework (Database-First)
-- **AI Service Integration**: OpenAI API (v2 / Responses API) via HttpClient
+- **AI Service Integration**: OpenAI Assistant API v2 via HttpClient
 - **Adaptive Algorithm**: Rule-based Dynamic Gain/Loss Model ($\Delta r$) & FCS1 Diagnostic
 - **Architecture**: Four-Layer Architecture (Presentation, Application, AI Service, Data)
 
