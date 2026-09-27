@@ -35,12 +35,6 @@
 <img width="945" height="465" alt="image" src="https://github.com/user-attachments/assets/25079885-f2e8-4737-bedc-d7b58dfe5b69" />
 <img width="945" height="465" alt="image" src="https://github.com/user-attachments/assets/99797040-dd47-4825-8832-d884d3394127" />
 
-
----
-
-## 🏗️ 系統架構 (Architecture)
-<img width="944" height="531" alt="image" src="https://github.com/user-attachments/assets/375d0d8b-e357-4955-9a6b-e1fdde6cc4b8" />
-
 ---
 
 ## 🏛️ 技術文檔
