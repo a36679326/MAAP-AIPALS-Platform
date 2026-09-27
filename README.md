@@ -6,7 +6,7 @@
 
 ## 📌 系統簡介 (System Overview)
 本平台專為初階程式學習者設計，將「題目診斷 → 適性選題 → 生題/審題 → 實作編譯 → 自動評估 → AI 動態提示 → 學習紀錄」整合為完整自動化閉環。
-
+![System Architecture](diagrams/system-architecture.png)
 ---
 
 ## 🛠️ 技術棧 (Tech Stack)
@@ -41,6 +41,12 @@
 <img width="944" height="531" alt="image" src="https://github.com/user-attachments/assets/375d0d8b-e357-4955-9a6b-e1fdde6cc4b8" />
 
 ---
+
+## 技術文檔
+🏛️ 查看四層式系統架構細節
+🤖 查看 Multi-Agent 雙階段工作流程
+📈 查看適性推薦演算法模型
+🗄️ 查看資料庫 ER Schema 設計
 
 ## 🔒 智慧財產權聲明 (IP & Source Code Notice)
 本專案為碩士論文核心研究成果，因涉及研究數據與論文發表規範，僅公開架構文檔與技術說明，核心程式碼不對外公開。
