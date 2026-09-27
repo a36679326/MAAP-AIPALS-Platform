@@ -8,7 +8,7 @@
 
 ### 階段一：Task Generation & Review Phase（出題與審核流程）
 
-負責根據學習者需求派發或即時生成符合難度的題目[cite: 14]。
+負責根據學習者需求派發或即時生成符合難度的題目。
 
 <img width="915" height="640" alt="image" src="https://github.com/user-attachments/assets/9fa1a2fd-54a6-4409-be93-cf274fa3a659" />
 
@@ -16,7 +16,7 @@
 
 ### 階段二：Evaluation, Hint & Feedback Phase（作答、評估與反饋流程）
 
-負責處理學習者作答過程中的動態提示（Dynamic Hint）、作答結果評估（Evaluation）與學習歷程更新[cite: 15]。
+負責處理學習者作答過程中的動態提示（Dynamic Hint）、作答結果評估（Evaluation）與學習歷程更新。
 
 <img width="915" height="640" alt="image" src="https://github.com/user-attachments/assets/66bc5681-8228-4ce9-ad1e-fe877f340512" />
 
