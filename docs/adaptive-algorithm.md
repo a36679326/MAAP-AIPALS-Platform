@@ -36,3 +36,14 @@ public static double UpdateRecommendationScore(double currentScore, bool answere
 
     return Math.Max(0, Math.Min(1, currentScore + delta));
 }
+```
+
+🎯 診斷與路徑派發
+FCS1 初始能力檢測：新使用者首次登入時，進行多維度選擇題檢測，建立初始能力 Baseline。
+
+動態難度遞進/遞減：
+
+當分數上升突破閥值時，系統自動派發高一階單元或高難度題目。
+
+當分數下降時，系統自動降階並由 Dynamic Hint Agent 切入輔助。
+
