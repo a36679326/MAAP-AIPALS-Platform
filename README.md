@@ -43,11 +43,11 @@
 
 ---
 
-## 技術文檔
-🏛️ 查看四層式系統架構細節
-🤖 查看 Multi-Agent 雙階段工作流程
-📈 查看適性推薦演算法模型
-🗄️ 查看資料庫 ER Schema 設計
+## 🏛️ 技術文檔
+* 🏛️ [查看四層式系統架構細節](docs/architecture.md)
+* 🤖 [查看 Multi-Agent 雙階段工作流程](docs/agent-workflow.md)
+* 📈 [查看適性推薦演算法模型](docs/adaptive-algorithm.md)
+* 🗄️ [查看資料庫 ER Schema 設計](docs/database-design.md)
 
 ## 🔒 智慧財產權聲明 (IP & Source Code Notice)
 本專案為碩士論文核心研究成果，因涉及研究數據與論文發表規範，僅公開架構文檔與技術說明，核心程式碼不對外公開。
